@@ -1,0 +1,14 @@
+{
+  "hooks": {
+    "PermissionRequest": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "uv run \"${CLAUDE_PLUGIN_ROOT}/src/agent.py\""
+          }
+        ]
+      }
+    ]
+  }
+}

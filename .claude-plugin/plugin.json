@@ -1,0 +1,9 @@
+{
+  "name": "auto-permission-request",
+  "version": "1.0.0",
+  "description": "Auto-approves safe Claude Code permission requests using Anthropic (Haiku by default), escalates risky ones to the user",
+  "author": {
+    "name": "Yuxin Li"
+  },
+  "keywords": ["permissions", "security", "hooks"]
+}
