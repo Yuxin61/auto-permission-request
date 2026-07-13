@@ -24,8 +24,8 @@ All requests and decisions are logged to `~/.auto-permission-request/log/`.
 ### Via Marketplace
 
 ```bash
-claude plugin marketplace add {{marketplace-url}}
-claude plugin install {{marketplace}}@permission-agent
+claude plugin marketplace add Yuxin61/cc-marketplace
+claude plugin install auto-permission-request@yuxin-s
 ```
 
 ## Configuration
