@@ -28,6 +28,12 @@ claude plugin marketplace add Yuxin61/cc-marketplace
 claude plugin install auto-permission-request@yuxin-s
 ```
 
+或者通过安装脚本一键完成：
+
+```bash
+curl -fsSL https://raw.githubusercontent.com/Yuxin61/auto-permission-request/main/install.sh | bash
+```
+
 ## 配置
 
 ### 用户配置文件
